@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{B40D837C-3EB3-4E55-9BC8-9C4F1F61BD12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistanceLayer", "PersistanceLayer\PersistanceLayer.csproj", "{65BABA8A-9FBE-43C0-B334-AA824DDD4255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui", "Gui\Gui.csproj", "{E502DBA8-1573-4026-B290-F55B5FE22268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40D837C-3EB3-4E55-9BC8-9C4F1F61BD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40D837C-3EB3-4E55-9BC8-9C4F1F61BD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40D837C-3EB3-4E55-9BC8-9C4F1F61BD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40D837C-3EB3-4E55-9BC8-9C4F1F61BD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BABA8A-9FBE-43C0-B334-AA824DDD4255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BABA8A-9FBE-43C0-B334-AA824DDD4255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BABA8A-9FBE-43C0-B334-AA824DDD4255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BABA8A-9FBE-43C0-B334-AA824DDD4255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E502DBA8-1573-4026-B290-F55B5FE22268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E502DBA8-1573-4026-B290-F55B5FE22268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E502DBA8-1573-4026-B290-F55B5FE22268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E502DBA8-1573-4026-B290-F55B5FE22268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
